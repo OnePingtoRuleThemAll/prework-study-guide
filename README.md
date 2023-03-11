@@ -1,4 +1,4 @@
-# <Jessica's Prework Study Guide>
+# Prework Study Guide
 
 ## A Study Guide for Navigation Through a Full Stack Development Course
 
